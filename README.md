@@ -1,8 +1,7 @@
 # the-ddos
 Share DDoS JavaScript by Destiny_
 # Requirements? 
-*Nodejs
-*Python 
+Nodejs and Python
 # Can't run or get error? 
 install need module and run again! 
 # Command:

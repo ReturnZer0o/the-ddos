@@ -1,7 +1,17 @@
 # the-ddos
 Share DDoS JavaScript by Destiny_
-# How to run? 
-<p>First:Install nodejs</p>
-<p>Second:Run command:"node name file.js"</p>
-# Can't run? 
+# Requirements? 
+*Nodejs
+*Python 
+# Can't run or get error? 
 install need module and run again! 
+# Command:
+For JavaScript Tools:
+```
+node file.js 
+```
+<p>For the DDoS Python DDoS Tool:</p>
+
+```
+python3 flood.py
+```

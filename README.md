@@ -7,10 +7,11 @@ install need module and run again!
 # Command:
 For JavaScript Tools:
 ```
-node file.js 
+node xxx.js 
 ```
 <p>For the DDoS Python DDoS Tool:</p>
 
 ```
-python3 flood.py
+python3 xxx.py
 ```
+* xxx = name file
